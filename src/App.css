@@ -1,0 +1,27 @@
+
+
+.app-container {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.clear-button {
+  margin: 10px;
+  padding: 8px 16px;
+  background-color: #f87171; /* red */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.clear-button:hover {
+  background-color: #ef4444; /* darker red */
+}
+
+
+
