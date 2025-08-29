@@ -51,3 +51,8 @@ npm run dev
 
 * This is a **mini project**, made just for learning and demonstration.
 * The chatbot only supports a few fixed commands for now.
+
+## 🏆 Author
+
+Built with ❤️ by [**Awais Ali**](https://github.com/AwaisCodeBase)
+
